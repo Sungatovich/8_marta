@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/8_marta/static/css/main.2a12afda.css",
+    "main.js": "/8_marta/static/js/main.36c64dfa.js",
+    "index.html": "/8_marta/index.html",
+    "main.2a12afda.css.map": "/8_marta/static/css/main.2a12afda.css.map",
+    "main.36c64dfa.js.map": "/8_marta/static/js/main.36c64dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a12afda.css",
+    "static/js/main.36c64dfa.js"
+  ]
+}
