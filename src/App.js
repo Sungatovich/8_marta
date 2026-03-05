@@ -303,15 +303,24 @@ export default function App() {
 
             {/* EXPORT */}
             <div className="btnRow">
+              {/* ✅ GOOGLE FORM */}
               <a
                 className="secondaryBtn"
-                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-                  address
-                )}`}
+                href="https://forms.gle/rMQwJuerC54nj3yg6"
                 target="_blank"
                 rel="noreferrer"
               >
-                Открыть карту
+                Заполнить форму (кто придёт)
+              </a>
+
+              {/* ✅ 2GIS */}
+              <a
+                className="secondaryBtn"
+                href="https://2gis.kz/almaty/geo/9430047374970929"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Открыть 2GIS
               </a>
 
               <button className="secondaryBtn" onClick={exportJSON}>
@@ -329,6 +338,9 @@ export default function App() {
 
             <div className="hint">
               Список сохраняется в браузере (localStorage). На другом телефоне/ПК список будет свой.
+              <br />
+              Чтобы все заполняли общий список — используй кнопку Google Form выше (ответы будут у тебя в
+              Google Forms/Sheets).
             </div>
           </div>
         </section>
