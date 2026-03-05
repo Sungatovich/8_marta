@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/8_marta/static/css/main.2a12afda.css",
+    "main.css": "/8_marta/static/css/main.f7b9b5de.css",
     "main.js": "/8_marta/static/js/main.2b5869a2.js",
     "index.html": "/8_marta/index.html",
-    "main.2a12afda.css.map": "/8_marta/static/css/main.2a12afda.css.map",
+    "main.f7b9b5de.css.map": "/8_marta/static/css/main.f7b9b5de.css.map",
     "main.2b5869a2.js.map": "/8_marta/static/js/main.2b5869a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a12afda.css",
+    "static/css/main.f7b9b5de.css",
     "static/js/main.2b5869a2.js"
   ]
 }
